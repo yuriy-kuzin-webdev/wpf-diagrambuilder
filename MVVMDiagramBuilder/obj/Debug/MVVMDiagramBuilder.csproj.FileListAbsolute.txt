@@ -1,0 +1,38 @@
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\bin\Debug\MVVMDiagramBuilder.exe.config
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\bin\Debug\MVVMDiagramBuilder.exe
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\bin\Debug\MVVMDiagramBuilder.pdb
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.csprojAssemblyReference.cache
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MainWindow.g.cs
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\App.g.cs
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder_MarkupCompile.cache
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder_MarkupCompile.lref
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MainWindow.baml
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.g.resources
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.Properties.Resources.resources
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.csproj.GenerateResource.cache
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.csproj.CoreCompileInputs.cache
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.exe
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.pdb
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\Dictionary.baml
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\bin\Debug\MathParser.org-mXparser.dll
+C:\DevEnv\C#\WPF\2020.03.04 MVVM Diagram\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.csproj.CopyComplete
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\bin\Debug\MVVMDiagramBuilder.exe.config
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\bin\Debug\MVVMDiagramBuilder.exe
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\bin\Debug\MVVMDiagramBuilder.pdb
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\App.g.cs
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder_MarkupCompile.cache
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder_MarkupCompile.lref
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\Dictionary.baml
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.g.resources
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.Properties.Resources.resources
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.csproj.CopyComplete
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.exe
+C:\Users\Administrator\Downloads\MVVMDiagramBuilder_1586038285\MVVMDiagramBuilder\MVVMDiagramBuilder\obj\Debug\MVVMDiagramBuilder.pdb
